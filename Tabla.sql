@@ -1,0 +1,1 @@
+SELECT * FROM tp_23050.users;
